@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(241, 227, 17);
+    height: 50vh;
+}
+.account{
+    display: flex;
+    justify-content: center;
+    /* margin: 150px; */
+    background-color: darkseagreen;
+    padding: 42px;
+    border-radius: 20px;
+    margin-top: 113px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+input{
+    padding: 15px;
+    /* background-color:#3e5493; */
+}
+button{
+    padding: 7px;
+    border-radius: 13px;
+    background-color: deepskyblue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

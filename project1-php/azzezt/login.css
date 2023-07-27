@@ -1,0 +1,30 @@
+body{
+    background-color: cadetblue;
+    height: 50vh;
+    
+}
+
+.regForm{
+
+    display: flex;
+    justify-content: center;
+    /* margin: 100px; */
+    background-color: darkseagreen;
+    padding: 42px;
+    border-radius: 20px;
+    padding: 42px;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+input{
+    padding: 15px;
+    background-color:#ec85c1;
+}
+button{
+    padding: 7px;
+    border-radius: 13px;
+    background-color: deepskyblue;
+}
